@@ -8,5 +8,7 @@ git commit
 git push origin main
 git rm
 git status
-git 
+git --oneline
+git -p
+git diff 
 
