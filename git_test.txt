@@ -1,3 +1,10 @@
 git test file
 
 ver1.1
+
+
+git add fale_name
+git commit 
+git push origin main
+
+
